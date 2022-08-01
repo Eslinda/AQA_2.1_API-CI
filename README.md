@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7s9q1vhxxtcju6ih?svg=true)](https://ci.appveyor.com/project/Eslinda/aqa-2-1-api-ci)
